@@ -6,4 +6,6 @@ dist/
 .env
 .env.local
 .cache/
+out/
+.next/
 

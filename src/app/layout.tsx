@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Providers } from "../providers";
+import "./globals.css";
 
 export const metadata: Metadata = {
   title: "OpenLight Studio | 照亮代码的未来",
@@ -14,9 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="zh-CN" suppressHydrationWarning>
-      <body>
-        <Providers>{children}</Providers>
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
