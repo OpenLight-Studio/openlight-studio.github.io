@@ -9,7 +9,7 @@ export const previewCards = [
   {
     icon: 'project',
     title: '核心项目',
-    desc: '探索 BrightS、D--、FH Clac 等项目',
+    desc: '探索 BrightS、D-subtract、FH Clac 等项目',
     link: '查看项目 →',
     href: '/pages/projects',
   },
@@ -30,24 +30,24 @@ export const previewCards = [
 ];
 
 export const statsData = [
-  { number: 4, label: '开源项目' },
-  { number: 119, label: '代码提交' },
-  { number: 4, label: '团队成员' },
+  { number: 3, label: '开源项目' },
+  { number: 68, label: '代码提交' },
+  { number: 2, label: '团队成员' },
   { number: 2, label: 'GitHub Stars' },
 ];
 
 export const techItems = [
   { name: 'C / C++', desc: '系统级编程' },
+  { name: 'Rust', desc: '系统编程' },
   { name: 'Assembly', desc: '底层开发' },
   { name: 'Linux', desc: '操作系统' },
   { name: 'CMake', desc: '构建系统' },
   { name: 'Git', desc: '版本控制' },
-  { name: 'GitHub', desc: '代码托管' },
 ];
 
 export const typewriterTexts = [
   "Building BrightS Kernel...",
-  "Designing D-- for Teens...",
+  "Designing D-subtract for Teens...",
   "Visualizing Data with FH Clac...",
   "OpenLight Studio: Est. 2022",
 ];
