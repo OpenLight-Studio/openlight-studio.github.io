@@ -24,6 +24,23 @@ const members = [
     github: 'https://github.com/dengdeng2code',
     role: '核心成员',
   },
+  {
+    name: 'Computer_漫画君',
+    handle: '@Computer_Comic',
+    bio: '团队核心成员，为项目注入创意与活力。',
+    avatar: '/assets/Pictures/Computer_comic.jpg',
+    github: 'https://github.com/Computer-Comic',
+    role: '核心成员',
+  },
+  {
+    name: '好心思能有什么小蓝呢',
+    handle: '@XiaoLanawa',
+    bio: '团队成员，正在学车的途中。运营个人博客记录生活点滴。',
+    avatar: '/assets/Pictures/Xiaolan.jpg',
+    github: 'https://github.com/XiaoLanawa',
+    blog: 'http://xiaolanawa.top',
+    role: '成员',
+  },
 ];
 
 export default function MembersPage() {

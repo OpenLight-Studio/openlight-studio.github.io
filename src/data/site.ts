@@ -32,7 +32,7 @@ export const previewCards = [
 export const statsData = [
   { number: 3, label: '开源项目' },
   { number: 68, label: '代码提交' },
-  { number: 2, label: '团队成员' },
+  { number: 4, label: '团队成员' },
   { number: 2, label: 'GitHub Stars' },
 ];
 
